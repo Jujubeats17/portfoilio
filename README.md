@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>My Page</title>
+My Page
 </head>
 <body>
 
