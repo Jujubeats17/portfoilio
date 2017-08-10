@@ -1,0 +1,10 @@
+body {
+  background-color: lightBlue;
+}
+
+p {
+  font-family: "Georgia";
+}
+p.normal {
+  font-weight: lighter;
+}
